@@ -25,6 +25,7 @@
           <li class="nav-item">
             <a class="nav-link active" aria-current="page" href="#">Your Cart</a>
           </li>
+          <li class="nav-item">
             <a class="nav-link" href="index.html">Home</a>
             <a class="nav-link" href="about.html">About</a>
             <a class="nav-link" href="productsrevamp.html">Products</a>
@@ -71,18 +72,18 @@
   <div class="Form">
   <form action="/submit-page" method="POST">
   <label for="name">Name:</label>
-  <input type="text" name="user_name">
+  <input type="text" id="user_name" name="user_name">
   <br>
   <label for="email">Email Address:</label>
-  <input type="email" name="user_email">
+  <input type="email" id="user_email" name="user_email">
   <br>
   <label for="telephone">Phone Number:</label>
-  <input type="tel" name="user_tel">
+  <input type="tel" id="user_tel" name="user_tel">
   <br>
     <label for="telephone">Address:</label>
-  <input type="text" name="user_address">
+  <input type="text" id="user_address" name="user_address">
   <br>
-  <a type="submit" onclick="return showanalert()"  class="Buy_item">Buy Item</a>
+  <button type="submit" onclick="return showanalert()"  class="Buy_item">Buy Item</button>
 </form>
 </div>
   <a href="productsrevamp.html" class="button_link">Go Back</a>
