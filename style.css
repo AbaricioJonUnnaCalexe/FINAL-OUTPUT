@@ -1,0 +1,386 @@
+body {
+    background-color: rgb(250, 230, 116);
+}
+
+.welcome-text {
+    text-align: center;
+    margin-top: 70px;
+        animation-name: fade;
+    animation-duration: 3s;
+}
+.welcome-info {
+    text-align: center;
+        animation-name: fade;
+    animation-duration: 3s;
+}
+
+.card {
+    margin-left: 600px;
+    margin-top: 50px;
+    width: 18rem;
+        animation-name: fade;
+    animation-duration: 3s;
+}
+
+.bi {
+    width: 30px;
+    height: 24px;
+        animation-name: fade;
+    animation-duration: 3s;
+}
+
+.Why-Choose {
+    text-align: center;
+        animation-name: fade;
+    animation-duration: 3s;
+}
+
+nav {
+    animation-name: fade;
+    animation-duration: 3s;
+}
+
+footer {
+        animation-name: fade;
+    animation-duration: 3s;
+}
+
+.reason {
+        animation-name: fade;
+    animation-duration: 3s;
+}
+    @keyframes fade { 
+      0% 
+      {opacity: 0;}
+    }
+.buy-anything {
+    text-align: center;
+            animation-name: fade;
+    animation-duration: 3s;
+}
+
+.white-tshirt {
+    background-color: white;
+    height: 250px;
+    width: 250px;
+    border-radius: 30px;
+    margin-left: 30px;
+    margin-top: 20px;
+            animation-name: fade;
+    animation-duration: 3s;
+}
+.button-link {
+    display: inline-block;
+    margin-left: 50px;
+    padding: 10px 20px;
+      background-color: #005eff;
+  color: white;
+  text-decoration: none; 
+  border: none;
+  border-radius: 15px;
+  cursor: pointer;
+  text-align: center;
+          animation-name: fade;
+    animation-duration: 3s;
+}
+.section {
+    text-align: center;
+            animation-name: fade;
+    animation-duration: 3s;
+}
+.blue-tshirt {
+    background-color: white;
+    height: 250px;
+    width: 250px;
+    border-radius: 30px;
+    margin-left: 30px;
+    margin-top: 20px;
+            animation-name: fade;
+    animation-duration: 3s;
+}
+.black-tshirt {
+    background-color: white;
+    height: 250px;
+    width: 250px;
+    border-radius: 30px;
+    margin-left: 30px;
+    margin-top: 20px;
+            animation-name: fade;
+    animation-duration: 3s;
+}
+.pink-tshirt {
+    background-color: white;
+    height: 250px;
+    width: 250px;
+    border-radius: 30px;
+    margin-left: 30px;
+    margin-top: 20px;
+            animation-name: fade;
+    animation-duration: 3s;
+}
+.grey-tshirt {
+    background-color: white;
+    height: 250px;
+    width: 250px;
+    border-radius: 30px;
+    margin-left: 30px;
+    margin-top: 20px;
+            animation-name: fade;
+    animation-duration: 3s;
+}
+.black-pants {
+    background-color: white;
+    height: 250px;
+    width: 250px;
+    border-radius: 30px;
+    margin-left: 30px;
+    margin-top: 20px;
+            animation-name: fade;
+    animation-duration: 3s;
+}
+.grey-pants {
+    background-color: white;
+    height: 250px;
+    width: 250px;
+    border-radius: 30px;
+    margin-left: 30px;
+    margin-top: 20px;
+            animation-name: fade;
+    animation-duration: 3s;
+}
+.white-pants {
+    background-color: white;
+    height: 250px;
+    width: 250px;
+    border-radius: 30px;
+    margin-left: 30px;
+    margin-top: 20px;
+            animation-name: fade;
+    animation-duration: 3s;
+}
+.grey-shorts {
+    background-color: white;
+    height: 250px;
+    width: 250px;
+    border-radius: 30px;
+    margin-left: 30px;
+    margin-top: 20px;
+            animation-name: fade;
+    animation-duration: 3s;
+}
+.white-shorts {
+    background-color: white;
+    height: 250px;
+    width: 250px;
+    border-radius: 30px;
+    margin-left: 30px;
+    margin-top: 20px;
+            animation-name: fade;
+    animation-duration: 3s;
+}
+.blue-shoes {
+    background-color: white;
+    height: 250px;
+    width: 250px;
+    border-radius: 30px;
+    margin-left: 30px;
+    margin-top: 20px;
+            animation-name: fade;
+    animation-duration: 3s;
+}
+.white-shoes {
+    background-color: white;
+    height: 250px;
+    width: 250px;
+    border-radius: 30px;
+    margin-left: 30px;
+    margin-top: 20px;
+                animation-name: fade;
+    animation-duration: 3s;
+}
+.red-heels {
+    background-color: white;
+    height: 250px;
+    width: 250px;
+    border-radius: 30px;
+    margin-left: 30px;
+    margin-top: 20px;
+                animation-name: fade;
+    animation-duration: 3s;
+}
+.black-heels {
+    background-color: white;
+    height: 250px;
+    width: 250px;
+    border-radius: 30px;
+    margin-left: 30px;
+    margin-top: 20px;
+                animation-name: fade;
+    animation-duration: 3s;
+}
+.sliver-bracelet {
+    background-color: white;
+    height: 250px;
+    width: 250px;
+    border-radius: 30px;
+    margin-left: 30px;
+    margin-top: 20px;
+                animation-name: fade;
+    animation-duration: 3s;
+}
+.golden-bracelet {
+    background-color: white;
+    height: 250px;
+    width: 250px;
+    border-radius: 30px;
+    margin-left: 30px;
+    margin-top: 20px;
+                animation-name: fade;
+    animation-duration: 3s;
+}
+.pink-bracelet {
+    background-color: white;
+    height: 250px;
+    width: 250px;
+    border-radius: 30px;
+    margin-left: 30px;
+    margin-top: 20px;
+                animation-name: fade;
+    animation-duration: 3s;
+}
+.colorful-blanket {
+    background-color: white;
+    height: 250px;
+    width: 250px;
+    border-radius: 30px;
+    margin-left: 30px;
+    margin-top: 20px;
+                animation-name: fade;
+    animation-duration: 3s;
+}
+.blue-blanket {
+    background-color: white;
+    height: 250px;
+    width: 250px;
+    border-radius: 30px;
+    margin-left: 30px;
+    margin-top: 20px;
+                animation-name: fade;
+    animation-duration: 3s;
+}
+.white-blanket {
+    background-color: white;
+    height: 250px;
+    width: 250px;
+    border-radius: 30px;
+    margin-left: 30px;
+    margin-top: 20px;
+                animation-name: fade;
+    animation-duration: 3s;
+}
+.black-headphones {
+    background-color: white;
+    height: 250px;
+    width: 250px;
+    border-radius: 30px;
+    margin-left: 30px;
+    margin-top: 20px;
+                animation-name: fade;
+    animation-duration: 3s;
+}
+.wired-headphones {
+    background-color: white;
+    height: 250px;
+    width: 250px;
+    border-radius: 30px;
+    margin-left: 30px;
+    margin-top: 20px;
+                animation-name: fade;
+    animation-duration: 3s;
+}
+.surpise {
+    text-align: center;
+                animation-name: fade;
+    animation-duration: 3s;
+}
+.button_link {
+    display: inline-block;
+    margin-left: 50px;
+    margin-top: 35px;
+    padding: 10px 20px;
+      background-color: #0bde00;
+  color: white;
+  text-decoration: none;
+  border: none;
+  border-radius: 15px;
+  cursor: pointer;
+  text-align: center;
+    animation-name: fade;
+    animation-duration: 3s;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+.buttonlink {
+    display: inline-block;
+    margin-left: 50px;
+    margin-top: 35px;
+    padding: 10px 20px;
+      background-color: #dcce00;
+  color: white;
+  text-decoration: none;
+  border: none;
+  border-radius: 15px;
+  cursor: pointer;
+  text-align: center;
+    animation-name: fade;
+    animation-duration: 3s;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+.Buy_item {
+    display: inline-block;
+    margin-left: 50px;
+    margin-top: 35px;
+    padding: 10px 20px;
+      background-color: #9200cc;
+  color: white;
+  text-decoration: none;
+  border: none;
+  border-radius: 15px;
+  cursor: pointer;
+  text-align: center;
+    animation-name: fade;
+    animation-duration: 3s;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+.product {
+    background-color: white;
+    height: 250px;
+    width: 250px;
+    border-radius: 30px;
+    margin-left: 30px;
+    margin-top: 20px;
+            animation-name: fade;
+    animation-duration: 3s;
+}
+.Container1 {
+    text-align: center;
+}
+.Form {
+    text-align: center;
+                animation-name: fade;
+    animation-duration: 3s;
+}
